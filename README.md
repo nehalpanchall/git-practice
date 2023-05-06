@@ -1,2 +1,3 @@
-# git-practice
-Beginning with Git hands-on
+# Nehal Panchal started learning GIT for the first time.
+
+Beginning with Git hands-on by Nehal Panchal.
